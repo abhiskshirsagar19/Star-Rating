@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+body {
+  background-color: grey;
+}
+
+.star {
+  margin: 10px;
+  font-size: 60px;
+}
+
+button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.on {
+  color: #000;
+}
+
+.off {
+  color: #ccc;
+}
